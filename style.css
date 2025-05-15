@@ -38,6 +38,13 @@ h3{
   color: black;
 }
 
+a{
+  font-family: "raleway";
+  text-decoration: none;
+  display: flex;
+  color: black;
+}
+
 p{
   font-family: "raleway";
   text-decoration: none;
@@ -82,9 +89,7 @@ nav a{
   display: flex;
   padding: 1em 1em;
   text-decoration: none;
-  font-family: "raleway";
   font-weight:bold;
-  color: black;
 
 }
 
@@ -131,9 +136,6 @@ nav a:hover{
   padding: 0.5em;
   width:fit-content;
   border-radius: 2em;
-  text-decoration: none;
-  display: flex;
-  color: black;
 }
 
 #recipies{
@@ -174,10 +176,6 @@ margin: auto;
   padding: 1em;
 }
 
-#recipies  a{
-  text-decoration: none;
-  color: black;
-}
 
 #recipies img{
   max-height: 20em;
@@ -233,9 +231,6 @@ margin: auto;
   color: black;
 }
 
-#allergyfriend a{
-  text-decoration: none;
-}
 
 #aboutus{
   display: flex;
